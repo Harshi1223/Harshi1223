@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshi1223
-- 👀 I’m interested in AI, Web Development, Mobile Application development
-- 💞️ I’m looking to collaborate on Mobile app and web development projects
+- 👀 I’m interested in Web Development, API testing and software development
+- 💞️ I’m looking to collaborate web development projects
 - 📫 Reach me out on hahrshadeepthi1223@gmail.com
 
 <!---
