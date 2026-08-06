@@ -178,19 +178,6 @@ Flask • SQLAlchemy • Docker • AWS • GitHub Actions
 
 ---
 
-# 📌 Pinned Repositories
-
-⭐ PrintGuard
-
-⭐ DublinBikes
-
-⭐ Scalable-Cloud-Programming-CA
-
-⭐ FreshShelves
-
-⭐ Finova
-
----
 
 🤝 Connect with Me
 
