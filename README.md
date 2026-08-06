@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Harshitha S R
+# Hi 👋, I'm Harshitha Sivakumar Rajalakshmi
 
 ### Software Engineer | Cloud Computing Enthusiast | Java Developer | MSc Cloud Computing @ National College of Ireland
 
